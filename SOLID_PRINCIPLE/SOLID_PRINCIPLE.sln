@@ -7,8 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincip
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{432B913F-E532-4486-8FC3-7AD010E41D80}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\Single-responsibility-principle.pptx = ..\..\Single-responsibility-principle.pptx
-		..\..\SOLID_INTRODUCE.pptx = ..\..\SOLID_INTRODUCE.pptx
+		Document\Single-responsibility-principle.pptx = Document\Single-responsibility-principle.pptx
+		Document\SOLID_INTRODUCE.pptx = Document\SOLID_INTRODUCE.pptx
 	EndProjectSection
 EndProject
 Global
