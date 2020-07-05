@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleReponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{4A8E7D72-A4F6-49AF-A7D8-18795469CD20}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{432B913F-E532-4486-8FC3-7AD010E41D80}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Single-responsibility-principle.pptx = ..\..\Single-responsibility-principle.pptx
+		..\..\SOLID_INTRODUCE.pptx = ..\..\SOLID_INTRODUCE.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
