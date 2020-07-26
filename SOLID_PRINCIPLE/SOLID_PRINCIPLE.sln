@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincip
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{432B913F-E532-4486-8FC3-7AD010E41D80}"
 	ProjectSection(SolutionItems) = preProject
+		Document\Interface-Segregation-Principle.pptx = Document\Interface-Segregation-Principle.pptx
 		Document\Liskov-Subsitutation-Principle.pptx = Document\Liskov-Subsitutation-Principle.pptx
 		Document\Open-Closed-Principle.pptx = Document\Open-Closed-Principle.pptx
 		Document\Single-responsibility-principle.pptx = Document\Single-responsibility-principle.pptx
