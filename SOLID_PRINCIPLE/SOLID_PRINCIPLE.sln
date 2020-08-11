@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincip
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{432B913F-E532-4486-8FC3-7AD010E41D80}"
 	ProjectSection(SolutionItems) = preProject
+		Document\Dependency-Inversion-Principle.pptx = Document\Dependency-Inversion-Principle.pptx
 		Document\Interface-Segregation-Principle.pptx = Document\Interface-Segregation-Principle.pptx
 		Document\Liskov-Subsitutation-Principle.pptx = Document\Liskov-Subsitutation-Principle.pptx
 		Document\Open-Closed-Principle.pptx = Document\Open-Closed-Principle.pptx
@@ -18,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "Open
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstutitionPrinciple", "LiskovSubstutitionPrinciple\LiskovSubstutitionPrinciple.csproj", "{4B676A76-A5B0-4967-A234-DDC6BC32E00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{C8E7005C-19EF-41F3-91D1-0AF58700C4CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{C8E7005C-19EF-41F3-91D1-0AF58700C4CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{C4C57299-5C9E-4EEB-B6D9-BCC618B2D1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +45,10 @@ Global
 		{C8E7005C-19EF-41F3-91D1-0AF58700C4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E7005C-19EF-41F3-91D1-0AF58700C4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E7005C-19EF-41F3-91D1-0AF58700C4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C57299-5C9E-4EEB-B6D9-BCC618B2D1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C57299-5C9E-4EEB-B6D9-BCC618B2D1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C57299-5C9E-4EEB-B6D9-BCC618B2D1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C57299-5C9E-4EEB-B6D9-BCC618B2D1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
